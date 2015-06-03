@@ -1,5 +1,5 @@
 #!/bin/bash
-rm -f /home/pi/odoo/posbox.pid
+rm -f /home/pi/odoo/PosBox/posbox.pid
 
 foo() {
 	while true
